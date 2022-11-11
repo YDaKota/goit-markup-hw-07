@@ -8,6 +8,7 @@
 
 /* Common classes */
 
+/*
 :root {
     --primary-text-color: #212121;
     --secondary-text-color: #757575;
@@ -15,7 +16,7 @@
     --secondary-background-color: #F5F4FA;
     --background-footer: #2F303A;
     --accent-color: #2196F3;
-}
+}*/
 
 body {
     background-color: var(--primary-background-color);
